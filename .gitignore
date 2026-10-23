@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+backups/
+logs/
+config/
+runtime/
+.env
+.env.*
+*.user
+*.suo
+*.log
+*.db
+*.sqlite*
+*.pfx
+*.key
+Siri历史对话/
