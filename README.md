@@ -5,6 +5,8 @@ Windows 桌面上的 Siri AI 助手与灵动岛个人实验项目，探索玻璃
 ## 持续更新
 本项目将持续更新，逐步改进界面动画、功能联动、兼容性和稳定性。更新进展以提交记录、更新日志和 Releases 为准；具体功能和发布时间以实际发布为准。欢迎通过 Issues 反馈问题和建议。
 
+源码下载：请下载仓库中的 [Siri-source.zip](Siri-source.zip) 并解压。下方目录指压缩包内的目录。
+
 ## 目录
 - `SiriAI/src/`：Siri AI 的 C# / WPF 源码。
 - `DynamicIsland/`：灵动岛的 .NET 8 / WPF 源码及界面图片。
